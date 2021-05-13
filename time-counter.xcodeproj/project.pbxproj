@@ -52,6 +52,7 @@
 		504C5360264CCE1600C640E5 /* time-counter */ = {
 			isa = PBXGroup;
 			children = (
+				504C5370264CCE3600C640E5 /* Model */,
 				504C5361264CCE1600C640E5 /* time_counterApp.swift */,
 				504C5363264CCE1600C640E5 /* ContentView.swift */,
 				504C5365264CCE1800C640E5 /* Assets.xcassets */,
@@ -67,6 +68,13 @@
 				504C5368264CCE1800C640E5 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		504C5370264CCE3600C640E5 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
